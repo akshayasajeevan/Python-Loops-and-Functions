@@ -1,11 +1,12 @@
 # Python Loops and Functions
 
-A collection of beginner-friendly Python programs created to practice loops, control statements, functions, user input, and basic calculations.
+A collection of Python programs created to practice loops, control statements, functions, user input, and basic calculations.
 
-## 📌 Projects
+## 📌 Programs
 
 ### 1. Number Guessing Game
-A simple guessing game using a `while` loop and control statements.
+
+A simple number guessing game using a `while` loop and control statements.
 
 **Concepts Covered:**
 - `while` loop
@@ -16,7 +17,8 @@ A simple guessing game using a `while` loop and control statements.
 - User input
 
 ### 2. Multiplication Table Generator
-Generates a multiplication table for a user-provided number from 1 to 10.
+
+Generates a multiplication table for a user-provided number from 1 to 10 using a `for` loop.
 
 **Concepts Covered:**
 - `for` loop
@@ -26,7 +28,8 @@ Generates a multiplication table for a user-provided number from 1 to 10.
 - Formatted output
 
 ### 3. BMI Calculator
-Calculates Body Mass Index (BMI) using a Python function.
+
+Calculates Body Mass Index (BMI) using a Python function with weight and height as inputs.
 
 **Concepts Covered:**
 - Functions
@@ -41,21 +44,21 @@ Calculates Body Mass Index (BMI) using a Python function.
 - Python
 - Jupyter Notebook
 
-## 📂 Repository Contents
+## 🎯 Concepts Practiced
 
-- `Assignment 3-While Loop, For loop and Function.ipynb` — Python programs covering loops, control statements, and functions.
-
-## 🎯 Learning Objectives
-
-This repository demonstrates practical use of:
-
-- While and for loops
+- While loops
+- For loops
 - Control statements
 - Functions
 - User input
-- Conditional logic
+- Random number generation
+- Conditional statements
 - Basic calculations
 - Formatted output
+
+## 📂 Repository Contents
+
+- `Python-Loops-and-Functions.ipynb` — Contains the Python programs and their outputs.
 
 ## 👩‍💻 Author
 
